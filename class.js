@@ -16,9 +16,23 @@ class Carro extends Obj{
     }
 
     colid (objeto){
-        
+
     }
 }
 
+class Estrada extends Obj{
+
+    des_est(){
+
+    }
+
+    mov_est(){
+
+    }
+}
+
+class Text{
+    
+}
 
 
