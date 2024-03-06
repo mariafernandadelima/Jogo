@@ -1,0 +1,6 @@
+git remote add origin https://github.com/mariafernandadelima/Jogo.git
+git branch -M main
+git push -u origin main
+
+token
+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
