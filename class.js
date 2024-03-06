@@ -10,3 +10,14 @@ class Obj{
     
     }
 }
+
+class Inimigo extends Carro{
+    atual_inimigo(){
+        
+        }
+    }
+    
+    recomeca(){
+        
+    }
+
