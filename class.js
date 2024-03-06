@@ -6,4 +6,7 @@ class Obj{
         this.h=h
         this.a=a
     }
+    des_obj(){
+    
+    }
 }
